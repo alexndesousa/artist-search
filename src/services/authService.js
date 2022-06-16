@@ -2,7 +2,7 @@ import {generateRandomString} from "../utils/utils"
 
 const authenticateUser = () => {
     const client_id = "a4e259d0257745afb6d9bc995d65808d";
-    const redirect_uri = "http://localhost:3000/";
+    const redirect_uri = "http://alexndesousa.github.io/artist-search/";
     const scope =
       "user-top-read user-read-private user-read-email playlist-modify-public playlist-read-private";
     const state = generateRandomString(16);
