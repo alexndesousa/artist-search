@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/artist-search/static/css/main.498d002a.chunk.css",
+    "main.js": "/artist-search/static/js/main.f5911f15.chunk.js",
+    "main.js.map": "/artist-search/static/js/main.f5911f15.chunk.js.map",
+    "runtime-main.js": "/artist-search/static/js/runtime-main.b68ccac7.js",
+    "runtime-main.js.map": "/artist-search/static/js/runtime-main.b68ccac7.js.map",
+    "static/js/2.d1a443bf.chunk.js": "/artist-search/static/js/2.d1a443bf.chunk.js",
+    "static/js/2.d1a443bf.chunk.js.map": "/artist-search/static/js/2.d1a443bf.chunk.js.map",
+    "index.html": "/artist-search/index.html",
+    "precache-manifest.ea03cdcf2968759aead6d1afebaa1853.js": "/artist-search/precache-manifest.ea03cdcf2968759aead6d1afebaa1853.js",
+    "service-worker.js": "/artist-search/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/artist-search/static/css/main.498d002a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68ccac7.js",
+    "static/js/2.d1a443bf.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.f5911f15.chunk.js"
+  ]
+}
